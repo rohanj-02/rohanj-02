@@ -11,9 +11,8 @@
 
 - 📫 How to reach me **rohan19095@iiitd.ac.in**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanj-02&show_icons=true&locale=en&layout=compact" alt="rohanj-02" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanj-02&show_icons=true&locale=en" alt="rohanj-02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanj-02&show_icons=true&locale=en&layout=compact&theme=radical" alt="rohanj-02" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanj-02&show_icons=true&locale=en&theme=radical" alt="rohanj-02" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
