@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [rohanj-02.github.io](rohanj-02.github.io)
+- 👨‍💻 All of my projects are available at [https://rohanj02.vercel.app/](https://rohanj02.vercel.app/)
 
 - 💬 Ask me about **React, Nodejs**
 
